@@ -1,12 +1,13 @@
 **__ALIGNED TESTNET GUIDE__**
 =
+- __This script will only work on Gitpod ✅__
 - Visit : [Gitpod](https://gitpod.io/workspaces)
 - Click on Continue with Github
 - Authorise gitpod with your gihtub accounts
 - Now click on __New Workspace__
 - Paste ```https://github.com/dxzenith/aligned-testnet.git``` in select repository section
 - Then click on __Continue__
-- Paste the below command
+- Paste the below command and hit Enter
 ```bash
 wget https://raw.githubusercontent.com/dxzenith/aligned-testnet/main/script.sh && chmod +x script.sh && ./script.sh
 ```
