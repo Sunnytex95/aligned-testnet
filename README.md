@@ -1,5 +1,6 @@
 **__ALIGNED TESTNET GUIDE__**
 =
+https://github.com/dxzenith/aligned-testnet/assets/161211651/a3669e00-f674-4f9b-aa75-d3548ec8e7fb
 - __This script will only work on Gitpod ✅__
 - Visit : [Gitpod](https://gitpod.io/workspaces)
 - Click on Continue with Github
