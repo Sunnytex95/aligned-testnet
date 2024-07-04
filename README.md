@@ -25,5 +25,3 @@ I am now #aligned ✅
 
 - Then join Aligned layer Discord :  [Discord Link](http://discord.gg/alignedlayer)
 - Share your tweet link in ```#🧪| testnet``` channel
-
-![Screenshot 2024-07-02 184455](https://github.com/dxzenith/aligned-testnet/assets/161211651/85b6a931-3d3f-4f27-a814-83a4512a9572)
